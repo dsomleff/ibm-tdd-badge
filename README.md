@@ -1,5 +1,5 @@
 # Cloud Garage TDD
-Summary of tasks for obtaining the Test-Driven Development badge.
+Summary of tasks for obtaining the [Test-Driven Development](https://www.ibm.com/cloud/architecture/content/course/test-driven-development) badge.
 This repo contains solutions for katas represented in course.
 
 ![alt text](https://www.ibm.com/cloud/architecture/images/badges/test-driven-development.png)
